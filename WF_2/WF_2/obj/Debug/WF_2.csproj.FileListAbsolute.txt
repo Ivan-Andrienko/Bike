@@ -1,0 +1,13 @@
+D:\ITA\C#\Max\Lesson_06.06.2016\WF_2\WF_2\WF_2\bin\Debug\WF_2.exe.config
+D:\ITA\C#\Max\Lesson_06.06.2016\WF_2\WF_2\WF_2\bin\Debug\WF_2.exe
+D:\ITA\C#\Max\Lesson_06.06.2016\WF_2\WF_2\WF_2\bin\Debug\WF_2.pdb
+D:\ITA\C#\Max\Lesson_06.06.2016\WF_2\WF_2\WF_2\obj\Debug\WF_2.csprojResolveAssemblyReference.cache
+D:\ITA\C#\Max\Lesson_06.06.2016\WF_2\WF_2\WF_2\obj\Debug\WF_2.coreForm.resources
+D:\ITA\C#\Max\Lesson_06.06.2016\WF_2\WF_2\WF_2\obj\Debug\WF_2.Properties.Resources.resources
+D:\ITA\C#\Max\Lesson_06.06.2016\WF_2\WF_2\WF_2\obj\Debug\WF_2.csproj.GenerateResource.Cache
+D:\ITA\C#\Max\Lesson_06.06.2016\WF_2\WF_2\WF_2\obj\Debug\WF_2.exe
+D:\ITA\C#\Max\Lesson_06.06.2016\WF_2\WF_2\WF_2\obj\Debug\WF_2.pdb
+D:\ITA\C#\Max\Lesson_06.06.2016\WF_2\WF_2\WF_2\obj\Debug\WF_2.AddBike.resources
+D:\ITA\C#\Max\Lesson_06.06.2016\WF_2\WF_2\WF_2\obj\Debug\WF_2.ucCross.resources
+D:\ITA\C#\Max\Lesson_06.06.2016\WF_2\WF_2\WF_2\obj\Debug\WF_2.ucHard.resources
+D:\ITA\C#\Max\Lesson_06.06.2016\WF_2\WF_2\WF_2\obj\Debug\WF_2.ucHardTeil.resources
